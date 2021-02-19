@@ -2,4 +2,4 @@
 
 Симуляция поведения толпы в игре Мафия.
 
-![alt text](Screen2.jpg)
+![alt text](Screen1.jpg)
